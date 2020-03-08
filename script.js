@@ -54,7 +54,7 @@ navToggle.on("click", function(event) {
 
 // Reviews: https://kenweeler.github.io/slick/
 
-let slider = $("#reviewSlider");
+let slider = $("#reviewslider");
 
 slider.slick({
     infinite: true,
